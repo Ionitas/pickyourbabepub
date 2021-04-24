@@ -8,12 +8,12 @@ Privacy Policy : https://www.privacypolicies.com/live/31fd627f-b1e5-4cc0-8d57-53
 HomeScreen : 
 
 <p align="middle">
-  <img src="./screens/Simulator Screen Shot - iPhone 12 Pro Max - 2021-04-24 at 08.36.42.png" title="fig.style icon" width="400"/>
+  <img src="./screens/Simulator Screen Shot - iPhone 12 Pro Max - 2021-04-24 at 08.36.42.png"  width="400"/>
 </p>
 
 SplashScreen : 
 
 <p align="middle">
-  <img src="./screens/Simulator Screen Shot - iPhone 12 Pro Max - 2021-04-24 at 08.36.30.png" title="fig.style icon" width="400"/>
+  <img src="./screens/Simulator Screen Shot - iPhone 12 Pro Max - 2021-04-24 at 08.36.30.png" width="400"/>
 </p>
 
